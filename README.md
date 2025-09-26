@@ -41,20 +41,20 @@ While MNB is widely used for text classification due to its simplicity and inter
 ├── data
 │   └── IMDB-Dataset.csv
 ├── efficiency_optimization
+│   ├── MNB_Model_Diminishing_Latency_Study.py
 │   ├── DiminishingLatency_Accuracy vs Latency Tradeoff.png
 │   ├── DiminishingLatency_ConfusionMatrix.png
-│   ├── DiminishingLatency_Output.jpg
-│   └── MNB_Model_Diminishing_Latency_Study.py
+│   └── DiminishingLatency_Output.jpg
 ├── enhancement_techniques
 │   ├── MNB_Model_Enhancement_Techniques_Study.ipynb
 │   ├── Model Performance Comparison.png
 │   └── Top Distinctive Features by Log Probability Difference.png
-├── MNB_base_model.py
-├── MNB_Sentiment_Classifier_Optimization.pdf
 ├── parameter_tuning
-│   ├── ConfusionMatrix.jpg
 │   ├── MNB_Model_ParameterTuning.py
+│   ├── ConfusionMatrix.jpg
 │   ├── Precision-Recall.jpg
 │   └── Result.jpg
+├── MNB_base_model.py
+├── MNB_Sentiment_Classifier_Optimization.pdf
 └── README.md
 ```
